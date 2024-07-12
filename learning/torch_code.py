@@ -4,3 +4,5 @@ import matplotib.pyplot as plt
 
 # Check version of PyTorch
 torch.__version__
+
+# Data
