@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="demos">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/demos/foodvision_mini.zip!/" />
+      <root url="jar://$PROJECT_DIR$/demos/foodvision_big.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
